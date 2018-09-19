@@ -18,8 +18,8 @@ in_class_example
      :target: https://pyup.io/repos/github/dilnoza92/in_class_example/
      :alt: Updates
      
-     .. image:: https://coveralls.io/repos/github/dilnoza92/in_class_example/badge.svg?branch=master
-:target: https://coveralls.io/github/dilnoza92/in_class_example?branch=master
+.. image:: https://coveralls.io/repos/github/dilnoza92/in_class_example/badge.svg?branch=master
+        :target: https://coveralls.io/github/dilnoza92/in_class_example?branch=master
 
 
 
