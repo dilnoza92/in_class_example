@@ -17,6 +17,10 @@ in_class_example
 .. image:: https://pyup.io/repos/github/dilnoza92/in_class_example/shield.svg
      :target: https://pyup.io/repos/github/dilnoza92/in_class_example/
      :alt: Updates
+     
+     .. image:: https://coveralls.io/repos/github/dilnoza92/in_class_example/badge.svg?branch=master
+:target: https://coveralls.io/github/dilnoza92/in_class_example?branch=master
+
 
 
 
